@@ -1,0 +1,5 @@
+nb_mypy
+mypy
+torch
+typing
+jupyter
